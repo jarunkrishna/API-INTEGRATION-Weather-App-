@@ -1,4 +1,16 @@
-# React Weather App - ReactJS Projects
+# API INTEGRATION (WEATHER APP)
+
+*COMPANY*   : CODETECH IT SOLUTIONS
+
+*NAME*      : ARUN KRISHNA J 
+
+*INTERN ID* : CT04DK51
+
+*DOMAIN*    : FULL STACK WEB DEVELOPMENT
+
+*DURATION*  : 4 WEEKS
+
+*METOR*     : NEELA SANTHOSH KUMAR
 
 ![weatherApp](https://github.com/user-attachments/assets/888201b0-e275-4ca1-9f43-e00b7ac82dd5)
 
