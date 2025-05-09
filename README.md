@@ -1,6 +1,7 @@
 # React Weather App - ReactJS Projects
 
-![weather](https://github.com/user-attachments/assets/24242317-834f-4b15-b7e6-24d3796cbc95)
+![weather](https://github.com/user-attachments/assets/f08232c7-9910-4ae7-a45c-d67a3feeef9b)
+
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
