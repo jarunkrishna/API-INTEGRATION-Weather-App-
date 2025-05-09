@@ -10,7 +10,7 @@
 
 *DURATION*  : 4 WEEKS
 
-*METOR*     : NEELA SANTHOSH KUMAR
+*MENTOR*     : NEELA SANTHOSH KUMAR
 
 ![weatherApp](https://github.com/user-attachments/assets/888201b0-e275-4ca1-9f43-e00b7ac82dd5)
 
